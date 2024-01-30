@@ -1,0 +1,3 @@
+C:\Users\13591\Desktop\Digital image processing three items\Bank_Card_Digital_Recognition\x64\Release\Bank_Card_Digital_Recognition.exe
+C:\Users\13591\Desktop\Bank_Card_Digital_Recognition\x64\Release\Bank_Card_Digital_Recognition.exe
+C:\Users\13591\Desktop\Digital image processing three items\项目代码-第1组-王明杰\Bank_Card_Digital_Recognition\x64\Release\Bank_Card_Digital_Recognition.exe
